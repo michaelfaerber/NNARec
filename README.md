@@ -9,3 +9,21 @@ Considering the increasing rate of scientific papers published in recent years, 
 2. We train and evaluate several classifiers capable of predicting neural network architectures based on textual problem descriptions.
 
 More information can be found in our paper.
+
+## Contact
+The system has been designed and implemented by Michael Färber and Nicolas Weber. Feel free to reach out to us:
+
+[Michael Färber](https://sites.google.com/view/michaelfaerber), michael.faerber@kit&#46;edu
+
+## How to Cite
+Please cite our work as follows:
+```
+@inproceedings{Faerber2022SDU,
+  author    = {Michael F{\"{a}}rber and
+               Nicolas Weber},
+  title     = "{Finding the Right Neural Network Architecture Given a Research Problem}",
+  booktitle = "{Proceedings of the AAAI-22 Workshop on Scientific Document Understanding}",
+  series    = "{SDU@AAAI'22}",
+  year      = {2022}
+}
+```
